@@ -1,6 +1,6 @@
 package com.capstone.insurance;
 
-import javax.annotation.Generated;
+import jakarta.annotation.Generated;
 
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 import jakarta.persistence.GeneratedValue;
